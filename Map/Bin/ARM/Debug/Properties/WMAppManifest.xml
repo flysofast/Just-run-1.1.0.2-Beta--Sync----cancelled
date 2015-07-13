@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <Languages xmlns="">
+    <Language code="vi-VN" />
+    <Language code="en-US" />
+  </Languages>
+  <App xmlns="" ProductID="{16a0eb1f-f7d0-47c5-9366-e9e065cad9c2}" Title="Just run" RuntimeType="Silverlight" Version="1.0.0.2" Genre="apps.normal" Author="FlySoFat" Description="Sample description" Publisher="FlySoFat" PublisherID="{521ab878-628e-4062-83a0-283de9130e51}">
+    <IconPath IsRelative="true" IsResource="false">Assets/Tiles/AppIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_LOCATION" />
+      <Capability Name="ID_CAP_MAP" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default">
+        <BackgroundExecution>
+          <ExecutionType Name="LocationTracking" />
+        </BackgroundExecution>
+      </DefaultTask>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="MapToken" TaskName="_default">
+        <TemplateIconic>
+          <SmallImageURI IsRelative="true" IsResource="false">Assets/Tiles/AppIcon.png</SmallImageURI>
+          <Count>0</Count>
+          <IconImageURI IsRelative="true" IsResource="false">Assets/Tiles/AppIcon.png</IconImageURI>
+          <Title>Just run</Title>
+          <Message></Message>
+          <BackgroundColor></BackgroundColor>
+          <HasLarge>True</HasLarge>
+          <LargeContent1></LargeContent1>
+          <LargeContent2></LargeContent2>
+          <LargeContent3></LargeContent3>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+        </TemplateIconic>
+      </PrimaryToken>
+    </Tokens>
+    <ActivatableClasses>
+      <InProcessServer>
+        <Path>TimeZones.WP8.Native.dll</Path>
+        <ActivatableClass ActivatableClassId="TimeZones.WP8.Native.TimeZoneInfoEx" ThreadingModel="both" />
+      </InProcessServer>
+    </ActivatableClasses>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->

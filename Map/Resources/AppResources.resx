@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>en-US</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Just run</value>
+  </data>
+  <data name="BurnedCalories" xml:space="preserve">
+    <value>Calories: </value>
+  </data>
+  <data name="DefaultZoomLevel" xml:space="preserve">
+    <value>Default Zoom Level</value>
+  </data>
+  <data name="Distance" xml:space="preserve">
+    <value>Distance: </value>
+  </data>
+  <data name="Finished" xml:space="preserve">
+    <value>Finished</value>
+  </data>
+  <data name="Go" xml:space="preserve">
+    <value>Go!</value>
+  </data>
+  <data name="Pause" xml:space="preserve">
+    <value>pause</value>
+  </data>
+  <data name="Resume" xml:space="preserve">
+    <value>resume</value>
+  </data>
+  <data name="RunRoute" xml:space="preserve">
+    <value>Run Route</value>
+  </data>
+  <data name="Speed" xml:space="preserve">
+    <value>Speed: </value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>about</value>
+  </data>
+  <data name="Age" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="Grade" xml:space="preserve">
+    <value>Grade</value>
+  </data>
+  <data name="GradeExplain" xml:space="preserve">
+    <value>**Grade is expressed in percent (amount of vertical change in some horizontal distance, that ratio being multiplied by 100 to become a percent). For example: grade of 2% means with every 1 meter in long, it gains 0.02 (2%) meters in height.
+It's 2% by default.</value>
+  </data>
+  <data name="InvalidUserInfo" xml:space="preserve">
+    <value>Please check your provided user information again!</value>
+  </data>
+  <data name="MyLocation" xml:space="preserve">
+    <value>my location</value>
+  </data>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="Restart" xml:space="preserve">
+    <value>restart</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="UserInfo" xml:space="preserve">
+    <value>User's Information</value>
+  </data>
+  <data name="Weight" xml:space="preserve">
+    <value>Weight</value>
+  </data>
+  <data name="DefaultPitchLevel" xml:space="preserve">
+    <value>Default Pitch Level</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Attention" xml:space="preserve">
+    <value>Attention!</value>
+  </data>
+  <data name="ExitConfirmMessage" xml:space="preserve">
+    <value>Do you want to exit?</value>
+  </data>
+  <data name="GPSErrorMessage" xml:space="preserve">
+    <value>Make sure that you have turned on GPS location service !</value>
+  </data>
+  <data name="SaveConfirmMessage" xml:space="preserve">
+    <value>Do you want to save this activity?</value>
+  </data>
+  <data name="Automatic" xml:space="preserve">
+    <value>Automatic</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Default" xml:space="preserve">
+    <value>Default</value>
+  </data>
+  <data name="AvgSpeed" xml:space="preserve">
+    <value>Average Speed: </value>
+  </data>
+  <data name="ChangingLanguageWarning" xml:space="preserve">
+    <value>You have to restart the application to take whole effect for changing language!</value>
+  </data>
+  <data name="Duration" xml:space="preserve">
+    <value>Duration: </value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Time: </value>
+  </data>
+  <data name="Activities" xml:space="preserve">
+    <value>Your Activities</value>
+  </data>
+  <data name="FirstRegMsg" xml:space="preserve">
+    <value>Is this your first time to run this application?
+Give it some of your infomation to get the most accurate results!</value>
+  </data>
+  <data name="AutoHeading" xml:space="preserve">
+    <value>Auto heading</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Map" xml:space="preserve">
+    <value>Map</value>
+  </data>
+  <data name="NoGeoFoundMsg" xml:space="preserve">
+    <value>There's none of your locations found in this run. Maybe it's because you have accidentally hit the 'Finished' button way too soon. Feel free to delete this run :)</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Select</value>
+  </data>
+  <data name="ThreeDObjects" xml:space="preserve">
+    <value>3D Objects</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Add a run...</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Date:</value>
+  </data>
+  <data name="DeleteConfirmMsg" xml:space="preserve">
+    <value>Do you really want to delete these data?</value>
+  </data>
+  <data name="YourRuns" xml:space="preserve">
+    <value>Your runs</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>General</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>Month</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="TotalCalories" xml:space="preserve">
+    <value>Total calories: </value>
+  </data>
+  <data name="TotalDistance" xml:space="preserve">
+    <value>Total distance: </value>
+  </data>
+  <data name="TotalDuration" xml:space="preserve">
+    <value>Total duration: </value>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>Week</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value>Year</value>
+  </data>
+  <data name="YourLastRun" xml:space="preserve">
+    <value>Your last run: </value>
+  </data>
+  <data name="YourProgress" xml:space="preserve">
+    <value>Your Progress</value>
+  </data>
+  <data name="FindingLocation" xml:space="preserve">
+    <value>Finding your location, please wait...</value>
+  </data>
+  <data name="AddNewRun" xml:space="preserve">
+    <value>Add new run</value>
+  </data>
+  <data name="PleaseWait" xml:space="preserve">
+    <value>Please wait...</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>Data saved!</value>
+  </data>
+  <data name="AvgPace" xml:space="preserve">
+    <value>Average Pace: </value>
+  </data>
+  <data name="Paused" xml:space="preserve">
+    <value>Paused</value>
+  </data>
+  <data name="Running" xml:space="preserve">
+    <value>Running...</value>
+  </data>
+  <data name="PrivacyPolicy" xml:space="preserve">
+    <value>Privacy policy</value>
+  </data>
+  <data name="PrivacyPolicyContent" xml:space="preserve">
+    <value>- The safety of your information is important to us.
+This application use location data and some health information (such as age, gender, weight) to calculate and record your workout process. This information will be stored in your phone memory (and on our server if you turn the option to synchronize data to the server), you can delete the account data as well as online data at anytime. No one was allowed to see this information unless authorized by you. If there are any changes to our privacy policy, we will warn you immediately.
+- For data synchronization options online, we will save some of your other information such as e-mail (optional), username and password.
+Any questions about the privacy policies please send us an e-mail: lehainam.it @outlook.com or click on the addresses provided below.</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>E-mail (For signing up only)</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="Others" xml:space="preserve">
+    <value>Unknown</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="Sync" xml:space="preserve">
+    <value>Synchronization</value>
+  </data>
+  <data name="SyncOnlineLabel" xml:space="preserve">
+    <value>Auto back up &amp; sync my data</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="YourAccount" xml:space="preserve">
+    <value>Your account</value>
+  </data>
+  <data name="SignIn" xml:space="preserve">
+    <value>Sign in</value>
+  </data>
+  <data name="SignUp" xml:space="preserve">
+    <value>Sign up</value>
+  </data>
+  <data name="DeleteAccount" xml:space="preserve">
+    <value>Delete account</value>
+  </data>
+  <data name="EmptyData" xml:space="preserve">
+    <value>Your data is empty!</value>
+  </data>
+  <data name="HelloUser" xml:space="preserve">
+    <value>Hi, {0}!</value>
+  </data>
+  <data name="ReLoginMsg" xml:space="preserve">
+    <value>Please sign in again</value>
+  </data>
+  <data name="SignedInWith" xml:space="preserve">
+    <value>You're currently signed in with username:</value>
+  </data>
+  <data name="SignOut" xml:space="preserve">
+    <value>Sign out</value>
+  </data>
+  <data name="SuccessfullyUpdated" xml:space="preserve">
+    <value>Successfully updated your data!</value>
+  </data>
+  <data name="DelAccMsg" xml:space="preserve">
+    <value>Your data will be erased and can't be restored. Are you sure about deleting this account?</value>
+  </data>
+  <data name="FailedAction" xml:space="preserve">
+    <value>Couldn't complete this action. Please check your network connection and try again later!</value>
+  </data>
+  <data name="SyncingAcc" xml:space="preserve">
+    <value>Syncing account</value>
+  </data>
+  <data name="SyncingData" xml:space="preserve">
+    <value>Syncing your data...</value>
+  </data>
+  <data name="SyncNow" xml:space="preserve">
+    <value>Sync now</value>
+  </data>
+  <data name="TurnOnSyncingMsg" xml:space="preserve">
+    <value>Turn on auto sync data?</value>
+  </data>
+  <data name="UsernameTxt" xml:space="preserve">
+    <value>Username: </value>
+  </data>
+  <data name="NewReleaseMsg" xml:space="preserve">
+    <value>* Ver 1.1.0.0
+- Cloud auto-sync data option (Beta).
+- Fix bugs.
+- Improve UI.
+- Policy privacy changes due to auto-sync option.
+* Ver 1.0.0.2
+- Normal operation even when the lock screen is active.
+- Supports both Vietnamese and English.
+- Updated information on the Live Tile.
+- Supports displaying 3D objects on the map.
+- Supports heading the map without a compass sensor.
+- Completely Free.
+- Simple UI, easy to use, lightweight size.</value>
+  </data>
+  <data name="PasswordsNotMatch" xml:space="preserve">
+    <value>Passwords don't match!</value>
+  </data>
+  <data name="ReTypePassword" xml:space="preserve">
+    <value>Re-type (For signing up only)</value>
+  </data>
+</root>

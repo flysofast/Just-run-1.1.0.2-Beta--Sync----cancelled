@@ -1,0 +1,142 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:maps="clr-namespace:Microsoft.Phone.Maps.Controls;assembly=Microsoft.Phone.Maps"
+    xmlns:System="clr-namespace:System;assembly=mscorlib" x:Name="MainPage"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    
+    x:Class="Map.PivotMainPage"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar BackgroundColor="#FF0A325B">
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="mniAdd_AB" Text="Add..." Click="mniAdd_AB_Click"/>
+                <shell:ApplicationBarMenuItem x:Name="abmnUserInfo" Text="User infomation" Click="abmnUserInfo_Click"/>
+                <shell:ApplicationBarMenuItem x:Name="abmnSettings" Text="Settings" Click="abmnSettings_Click"/>
+                <shell:ApplicationBarMenuItem x:Name="abmnSyncingAcc" Text="About" Click="abmnSyncingAcc_Click"/>
+                <shell:ApplicationBarMenuItem x:Name="abmnAbout" Text="About" Click="abmnAbout_Click"/>
+            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBarIconButton x:Name="btShowLocation" IconUri="/Assets/AppBar/Location-Pointer.png" Text="my location" Click="btShowLocation_Click"/>
+            <shell:ApplicationBarIconButton x:Name="btPause_AB" IconUri="/Assets/AppBar/pause.png" Text="pause" Click="btPause_AB_Click" IsEnabled="False"/>
+            <shell:ApplicationBarIconButton x:Name="btReset_AB" IconUri="/Assets/AppBar/refresh.png" Text="restart" Click="btReset_AB_Click" IsEnabled="False"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+        <!--Pivot Control-->
+        <!--<Image Source="/Assets/AlignmentGrid.png" VerticalAlignment="Top" Height="800" Width="480" Margin="0,-32,0,0" Grid.Row="0" Grid.RowSpan="2" IsHitTestVisible="False" />-->
+        <phone:Pivot Title="{Binding LocalizedResources.AppName, Source={StaticResource LocalizedStrings}}" SelectionChanged="Pivot_SelectionChanged">
+
+            <!--Pivot item one-->
+            <phone:PivotItem  Header="{Binding LocalizedResources.RunRoute, Source={StaticResource LocalizedStrings}}" Margin="0,28,0,0">
+                <Grid Margin="0,-24,0,0">
+                    <maps:Map x:Name="MyFirstMap" Pitch="55" Margin="2,1,0,-1" />
+                    <Button x:Name="btZoomIn" Content="+" HorizontalAlignment="Left" Margin="403,0,0,0" VerticalAlignment="Top" Width="77" Opacity="0.5" Click="btZoomIn_Click" BorderBrush="Black" Foreground="White" Background="#FF444444"/>
+                    <Button x:Name="btZoomOut" Content="-" HorizontalAlignment="Left" Margin="403,77,0,0" VerticalAlignment="Top" Width="77" Opacity="0.5" Click="btZoomOut_Click" BorderBrush="Black" Foreground="White" Background="#FF444444" FontSize="22" Height="72"/>
+                    <Rectangle Fill="Black" HorizontalAlignment="Left" Height="264" Stroke="Black" VerticalAlignment="Top" Width="480" Margin="0,367,0,-76" Opacity="0.6"/>
+
+                    <TextBlock x:Name="tbDistance" HorizontalAlignment="Right" Margin="0,517,185,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="267" Foreground="White" FontSize="21.333" FontFamily="Helvetica Neue" Text="{Binding LocalizedResources.Distance, Source={StaticResource LocalizedStrings}}"/>
+                    <TextBlock x:Name="tbTemSpeed" HorizontalAlignment="Left" Margin="28,467,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.207,0.556" Width="242" Foreground="White" Height="38" FontSize="21.333" FontFamily="Helvetica Neue" Text="{Binding LocalizedResources.Speed, Source={StaticResource LocalizedStrings}}"/>
+                    <Button x:Name="btStart" Content="{Binding LocalizedResources.Go, Source={StaticResource LocalizedStrings}}" HorizontalAlignment="Left" Margin="0,367,0,0" VerticalAlignment="Top" Width="480" Click="btStart_Click" Foreground="White" Background="#FF1D7C08" Height="93" BorderBrush="{x:Null}" FontSize="33.333"/>
+                    <Button x:Name="btFinished" Content="{Binding LocalizedResources.Finished, Source={StaticResource LocalizedStrings}}" HorizontalAlignment="Left" Margin="0,367,0,0" VerticalAlignment="Top" Width="480" Click="btFinished_Click" Foreground="White" Background="#FFA80A0A" Height="93" BorderBrush="{x:Null}" FontSize="33.333" Visibility="Collapsed"/>
+                    <TextBlock x:Name="tbCalories" HorizontalAlignment="Left" Margin="264,517,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="216" Height="38" Foreground="White" FontSize="21.333" FontFamily="Helvetica Neue"  />
+                    <Viewbox  Visibility="Collapsed" Margin="118,35,119,459" x:Name="TimeViewbox"  Opacity="0.5" RenderTransformOrigin="0.431,0.272">
+                        <Grid Height="129" Width="337">
+                            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="129" Stroke="Black" VerticalAlignment="Top" Width="322"/>
+                            <TextBlock x:Name="tbTimeCount"  Text="00:00:00" HorizontalAlignment="Left" Margin="15,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="322" Height="99" FontSize="80" Foreground="White"/>
+
+                        </Grid>
+                    </Viewbox>
+                    <TextBlock x:Name="tbPace" HorizontalAlignment="Left" Margin="264,467,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.207,0.556" Width="206" Foreground="White" Height="38" FontSize="21.333" FontFamily="Helvetica Neue" Text="Pace: 0.00 min/km"/>
+                    <ProgressBar x:Name="prgBar"  HorizontalAlignment="Left" Height="18" Margin="28,258,0,0" VerticalAlignment="Top" Width="412"/>
+                    <TextBlock x:Name="tbFindingLocation" HorizontalAlignment="Left" Margin="28,231,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="412" TextAlignment="Center" Foreground="Black"/>
+
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item two-->
+            <phone:PivotItem Header="{Binding LocalizedResources.Activities, Source={StaticResource LocalizedStrings}}">
+                <Grid>
+                    <toolkit:LongListMultiSelector x:Name="longListMultiSelector"
+                                                   EnforceIsSelectionEnabled="False"
+                        IsGroupingEnabled="True" LayoutMode="List" HideEmptyGroups="False"
+                       
+                        GroupHeaderTemplate="{StaticResource groupHeaderTemplate}"
+                        JumpListStyle="{StaticResource LongListSelectorJumpListStyle}"
+                        Margin="1,0,-1,0">
+                        <toolkit:LongListMultiSelector.ItemTemplate>
+                            <DataTemplate>
+                                <Grid x:Name="ItemGrid" Tap="Grid_Tap">
+                                    <StackPanel Orientation="Horizontal">
+                                        <!--<Image Source="{Binding Flag}"  Height="50" Margin="0,0,10,0"/>-->
+                                        <StackPanel>
+                                            <TextBlock x:Name="tbItemNo" Text="{Binding No}" Visibility="Collapsed"/>
+                                            <TextBlock  FontSize="26"  >
+                                          <!--<Run Text="{Binding No, StringFormat=' {0}>'}"/>-->  
+                        <Run Text="{Binding LocalizedResources.Time, Source={StaticResource LocalizedStrings}}"/>
+                        <Run Text="{Binding datetime, StringFormat=HH:mm:ss}"/>
+                                            </TextBlock>
+                                            <TextBlock  Style="{StaticResource PhoneTextSubtleStyle}"  >
+                        <Run Text="{Binding LocalizedResources.BurnedCalories, Source={StaticResource LocalizedStrings}}"/>
+                        <Run Text="{Binding BurnedCalories, StringFormat=' {0:f2} cal'}"/>
+                                            </TextBlock>
+                                            <TextBlock Style="{StaticResource PhoneTextSubtleStyle}">
+                        <Run Text="{Binding LocalizedResources.Distance, Source={StaticResource LocalizedStrings}}"/>
+                        <Run Text="{Binding Distance, StringFormat=' {0:f2} km'}" />
+                                            </TextBlock>
+                                            <TextBlock  Style="{StaticResource PhoneTextSubtleStyle}"  >
+                        <Run Text="{Binding LocalizedResources.Duration, Source={StaticResource LocalizedStrings}}"/>
+                        <Run Text="{Binding Duration, StringFormat=' {0}'}" />
+                                            </TextBlock>
+                                            <TextBlock  Style="{StaticResource PhoneTextSubtleStyle}"  >
+                        <Run Text="{Binding LocalizedResources.AvgSpeed, Source={StaticResource LocalizedStrings}}"/>
+                        <Run Text="{Binding AvgSpeed, StringFormat=' {0:f2} km/h'}" />
+                                            </TextBlock>
+                                            <TextBlock  Style="{StaticResource PhoneTextSubtleStyle}"  >
+                        <Run Text="{Binding LocalizedResources.AvgPace, Source={StaticResource LocalizedStrings}}"/>
+                        <Run Text="{Binding AvgPace, StringFormat=' {0:f2} min/km'}" />
+                                            </TextBlock>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Grid>
+                            </DataTemplate>
+
+                        </toolkit:LongListMultiSelector.ItemTemplate>
+                    </toolkit:LongListMultiSelector>
+                </Grid>
+            </phone:PivotItem>
+
+        </phone:Pivot>
+    </Grid>
+
+</phone:PhoneApplicationPage>

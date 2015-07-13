@@ -1,0 +1,465 @@
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Map.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Map.pdb
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\AppManifest.xaml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Properties\WMAppManifest.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Map_Release_AnyCPU.xap
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\App.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\Map.g.resources
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\Map.Resources.AppResources.resources
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\Map.csproj.GenerateResource.Cache
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\Map.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\Map.pdb
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\XapCacheFile.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\feature.settings.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Microsoft.Expression.Drawing.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\Settings.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\cancel.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\refresh.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\save.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\about.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\vi-VN\Map.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\Map.Resources.AppResources.vi-VN.resources
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\vi-VN\Map.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\check.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\pause.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\play.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\location.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\appbar.location.round.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Assets\AppBar\Location-Pointer.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Microsoft.Advertising.Mobile.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\microsoft.advertising.mobile.ui.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Microsoft.Advertising.Mobile.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\microsoft.advertising.mobile.ui.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\PivotMainPage.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\UserInfo.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\PrevRun.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\AddRun.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map\Map\obj\Release\Map.csprojResolveAssemblyReference.cache
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\cancel.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\check.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\feature.settings.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\refresh.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\save.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\pause.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\play.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\location.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\appbar.location.round.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Assets\AppBar\Location-Pointer.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Map.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Map.pdb
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\vi-VN\Map.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\AppManifest.xaml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Properties\WMAppManifest.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Map_Release_AnyCPU.xap
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Microsoft.Advertising.Mobile.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\microsoft.advertising.mobile.ui.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Microsoft.Expression.Drawing.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\Microsoft.Advertising.Mobile.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\microsoft.advertising.mobile.ui.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\App.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\about.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\AddRun.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\PivotMainPage.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\PrevRun.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\Settings.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\UserInfo.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\Map.g.resources
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\Map.Resources.AppResources.resources
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\Map.Resources.AppResources.vi-VN.resources
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\Map.csproj.GenerateResource.Cache
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\vi-VN\Map.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\Map.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\Map.pdb
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\XapCacheFile.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map 1.0.0.2.1\Map\obj\Release\Map.csprojResolveAssemblyReference.cache
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\cancel.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\check.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\feature.settings.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\refresh.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\save.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\pause.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\play.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\location.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\appbar.location.round.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Assets\AppBar\Location-Pointer.png
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Map.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Map.pdb
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\vi-VN\Map.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\AppManifest.xaml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Properties\WMAppManifest.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Map_Release_AnyCPU.xap
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Microsoft.Advertising.Mobile.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\microsoft.advertising.mobile.ui.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Microsoft.Expression.Drawing.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Newtonsoft.Json.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\WindowsPhonePostClient.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Microsoft.Advertising.Mobile.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\microsoft.advertising.mobile.ui.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\Newtonsoft.Json.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\App.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\about.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\AddRun.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\PivotMainPage.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\PrevRun.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Settings.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\UserInfo.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Map.g.resources
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Map.Resources.AppResources.resources
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Map.Resources.AppResources.vi-VN.resources
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Map.csproj.GenerateResource.Cache
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\vi-VN\Map.resources.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Map.dll
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Map.pdb
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\XapCacheFile.xml
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Login.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\ServerComTest.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\UserAccountManager.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Welcome.g.cs
+D:\Rin\Visual Studio projects\Windows Phone 8\Students\201306\Windows Phone 8\Nam\Map Beta\Map\obj\Release\Map.csprojResolveAssemblyReference.cache
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\cancel.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\check.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\feature.settings.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\refresh.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\save.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\pause.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\play.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\location.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\appbar.location.round.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Assets\AppBar\Location-Pointer.png
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Map.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Map.pdb
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\vi-VN\Map.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\AppManifest.xaml
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Map_Release_AnyCPU.xap
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\microsoft.advertising.mobile.ui.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Newtonsoft.Json.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\SLWpVisifire.Charts.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\WindowsPhonePostClient.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Microsoft.Advertising.Mobile.xml
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\microsoft.advertising.mobile.ui.xml
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\Newtonsoft.Json.xml
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Map.csprojResolveAssemblyReference.cache
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\App.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\about.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\AddRun.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Chart1.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Login.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\PivotMainPage.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\PrevRun.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\ServerComTest.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Settings.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\UserAccountManager.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\UserInfo.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Welcome.g.cs
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Map.g.resources
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Map.Resources.AppResources.resources
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Map.Resources.AppResources.vi-VN.resources
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Map.csproj.GenerateResource.Cache
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\vi-VN\Map.resources.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Map.dll
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\Map.pdb
+C:\Users\IT\SkyDrive\Projects\Map Beta\Map\obj\Release\XapCacheFile.xml

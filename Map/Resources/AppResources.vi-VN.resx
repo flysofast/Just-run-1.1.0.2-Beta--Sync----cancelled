@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>vi-VN</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>Giới thiệu</value>
+  </data>
+  <data name="Finished" xml:space="preserve">
+    <value>Hoàn tất</value>
+  </data>
+  <data name="Go" xml:space="preserve">
+    <value>Chạy!</value>
+  </data>
+  <data name="Pause" xml:space="preserve">
+    <value>Tạm dừng</value>
+  </data>
+  <data name="Resume" xml:space="preserve">
+    <value>Tiếp tục</value>
+  </data>
+  <data name="Age" xml:space="preserve">
+    <value>Tuổi</value>
+  </data>
+  <data name="BurnedCalories" xml:space="preserve">
+    <value>Calo: </value>
+  </data>
+  <data name="DefaultPitchLevel" xml:space="preserve">
+    <value>Độ cao mặc định</value>
+  </data>
+  <data name="DefaultZoomLevel" xml:space="preserve">
+    <value>Độ phóng đại mặc định</value>
+  </data>
+  <data name="Distance" xml:space="preserve">
+    <value>Quãng đường: </value>
+  </data>
+  <data name="Grade" xml:space="preserve">
+    <value>Độ nghiêng</value>
+  </data>
+  <data name="GradeExplain" xml:space="preserve">
+    <value>**Chỉ số này được biểu diễn bằng % (lấy số thay đổi của độ cao ứng với một đơn vị chiều dài của đường chạy rồi nhân với 100, ta sẽ có được chỉ số này). Ví dụ: 2% nghĩa là với mỗi mét dài của đường chạy, độ cao tăng lên 0.02 mét, tương ứng với 2%.
+Hãy giữ chỉ số mặc định là 2% nếu bạn không rõ đường chạy của bạn có chỉ số này là bao nhiêu.</value>
+  </data>
+  <data name="InvalidUserInfo" xml:space="preserve">
+    <value>Vui lòng kiểm tra lại thông tin người dùng bạn vừa cung cấp!</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Ngôn ngữ</value>
+  </data>
+  <data name="MyLocation" xml:space="preserve">
+    <value>Định vị</value>
+  </data>
+  <data name="Restart" xml:space="preserve">
+    <value>Làm lại</value>
+  </data>
+  <data name="RunRoute" xml:space="preserve">
+    <value>Đường chạy</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Lưu</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Cài đặt</value>
+  </data>
+  <data name="Speed" xml:space="preserve">
+    <value>Tốc độ: </value>
+  </data>
+  <data name="UserInfo" xml:space="preserve">
+    <value>Thông tin người dùng</value>
+  </data>
+  <data name="Weight" xml:space="preserve">
+    <value>Cân nặng</value>
+  </data>
+  <data name="Attention" xml:space="preserve">
+    <value>Chú ý!</value>
+  </data>
+  <data name="ExitConfirmMessage" xml:space="preserve">
+    <value>Bạn muốn thoát ứng dụng này?</value>
+  </data>
+  <data name="GPSErrorMessage" xml:space="preserve">
+    <value>Bạn có quên bật GPS không? Ứng dụng này cần sử dụng dịch vụ định vị GPS để hoạt động bình thường.</value>
+  </data>
+  <data name="SaveConfirmMessage" xml:space="preserve">
+    <value>Bạn có muốn lưu hoạt động này không?</value>
+  </data>
+  <data name="Automatic" xml:space="preserve">
+    <value>Tự động</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Hủy</value>
+  </data>
+  <data name="Default" xml:space="preserve">
+    <value>Mặc định</value>
+  </data>
+  <data name="AvgSpeed" xml:space="preserve">
+    <value>Tốc độ trung bình: </value>
+  </data>
+  <data name="ChangingLanguageWarning" xml:space="preserve">
+    <value>Bạn vừa thay đổi ngôn ngữ. Giao diện sẽ thay đổi sau khi bạn khởi động lại ứng dụng.</value>
+  </data>
+  <data name="Duration" xml:space="preserve">
+    <value>Thời gian: </value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Thời điểm: </value>
+  </data>
+  <data name="Activities" xml:space="preserve">
+    <value>Quá trình</value>
+  </data>
+  <data name="FirstRegMsg" xml:space="preserve">
+    <value>Đây là lần đầu tiên bạn sử dụng ứng dụng này phải không?
+Hãy điền vài thông tin sức khỏe của bạn để có kết quả chính xác nhất!</value>
+  </data>
+  <data name="AutoHeading" xml:space="preserve">
+    <value>Tự động xoay hướng</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Xóa</value>
+  </data>
+  <data name="Map" xml:space="preserve">
+    <value>Bản đồ</value>
+  </data>
+  <data name="NoGeoFoundMsg" xml:space="preserve">
+    <value>Không tìm thấy vị trí nào của bạn trong lần chạy này. Có lẽ bạn đã bấm nhầm nút 'Hoàn tất' quá sớm.</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Chọn</value>
+  </data>
+  <data name="ThreeDObjects" xml:space="preserve">
+    <value>Hiển thị các đối tượng 3D</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Thêm lần chạy...</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Ngày:</value>
+  </data>
+  <data name="DeleteConfirmMsg" xml:space="preserve">
+    <value>Bạn thực sự muốn xóa những dữ liệu này?</value>
+  </data>
+  <data name="YourRuns" xml:space="preserve">
+    <value>Những lần chạy trước</value>
+  </data>
+  <data name="General" xml:space="preserve">
+    <value>Tổng quát</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>Tháng</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Tổng cộng</value>
+  </data>
+  <data name="TotalCalories" xml:space="preserve">
+    <value>Calories tổng cộng: </value>
+  </data>
+  <data name="TotalDistance" xml:space="preserve">
+    <value>Tổng quãng đường: </value>
+  </data>
+  <data name="TotalDuration" xml:space="preserve">
+    <value>Thời gian tổng cộng: </value>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>Tuần</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value>Năm</value>
+  </data>
+  <data name="YourLastRun" xml:space="preserve">
+    <value>Lần chạy gần nhất: </value>
+  </data>
+  <data name="YourProgress" xml:space="preserve">
+    <value>Quá trình</value>
+  </data>
+  <data name="FindingLocation" xml:space="preserve">
+    <value>Đang tìm vị trí của bạn, vui lòng đợi giây lát...</value>
+  </data>
+  <data name="AddNewRun" xml:space="preserve">
+    <value>Thêm lần chạy</value>
+  </data>
+  <data name="PleaseWait" xml:space="preserve">
+    <value>Xin chờ giây lát...</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Trở về</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>Dữ liệu đã được lưu lại!</value>
+  </data>
+  <data name="AvgPace" xml:space="preserve">
+    <value>Pace trung bình: </value>
+  </data>
+  <data name="Paused" xml:space="preserve">
+    <value>Đã tạm dừng</value>
+  </data>
+  <data name="Running" xml:space="preserve">
+    <value>Đang chạy...</value>
+  </data>
+  <data name="PrivacyPolicy" xml:space="preserve">
+    <value>Chính sách riêng tư</value>
+  </data>
+  <data name="PrivacyPolicyContent" xml:space="preserve">
+    <value>- Sự an toàn thông tin của bạn là rất quan trọng đối với chúng tôi.
+Ứng dụng này dùng dữ liệu vị trí và một vài thông tin về sức khỏe (như tuổi, giới tính, cân nặng) để tính toán và ghi nhận quá trình tập luyện của bạn. Những thông tin này sẽ được lưu trữ trong bộ nhớ điện thoại của bạn (và trên server của chúng tôi nếu bạn bật tùy chọn đồng bộ dữ liệu lên server), bạn có thể xóa dữ liệu cũng như tài khoản dữ liệu trực tuyến của bạn đi bất cứ lúc nào. Không có ai được phép xem những thông tin này trừ khi được bạn cho phép. Nếu như có bất cứ thay đổi gì về chính sách riêng tư chúng thôi sẽ thông báo cho bạn ngay.
+- Đối với tùy chọn đồng bộ dữ liệu online, chúng tôi sẽ lưu thêm một số thông tin khác của bạn là e-mail (không bắt buộc), tên đăng nhập và mật khẩu.
+Mọi thắc mắc về chính sách riêng tư xin hãy gửi cho chúng tôi qua e-mail: lehainam.it@outlook.com hoặc bấm vào các địa chỉ đã được cung cấp dưới đây.</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>Nữ</value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>Giới tính</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>Nam</value>
+  </data>
+  <data name="Others" xml:space="preserve">
+    <value>Chưa rõ</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Mật khẩu</value>
+  </data>
+  <data name="SignIn" xml:space="preserve">
+    <value>Đăng nhập</value>
+  </data>
+  <data name="SignOut" xml:space="preserve">
+    <value>Đăng xuất</value>
+  </data>
+  <data name="SignUp" xml:space="preserve">
+    <value>Đăng kí</value>
+  </data>
+  <data name="Sync" xml:space="preserve">
+    <value>Đồng bộ</value>
+  </data>
+  <data name="SyncOnlineLabel" xml:space="preserve">
+    <value>Tự động đồng bộ dữ liệu trực tuyến</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Tên đăng nhập</value>
+  </data>
+  <data name="YourAccount" xml:space="preserve">
+    <value>Tài khoản</value>
+  </data>
+  <data name="DeleteAccount" xml:space="preserve">
+    <value>Xóa tài khoản</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email (nếu đăng kí tài khoản mới)</value>
+  </data>
+  <data name="EmptyData" xml:space="preserve">
+    <value>Kho dữ liệu của bạn trống!</value>
+  </data>
+  <data name="HelloUser" xml:space="preserve">
+    <value>Xin chào, {0}!</value>
+  </data>
+  <data name="ReLoginMsg" xml:space="preserve">
+    <value>Vui lòng đăng nhập lại</value>
+  </data>
+  <data name="SignedInWith" xml:space="preserve">
+    <value>Bạn đã đăng nhập bằng tài khoản:</value>
+  </data>
+  <data name="SuccessfullyUdated" xml:space="preserve">
+    <value>Cập nhật dữ liệu thành công!</value>
+  </data>
+  <data name="DelAccMsg" xml:space="preserve">
+    <value>Tất cả dữ liệu của bạn sẽ bị xóa và không thể khôi phục lại. Bạn có chắc muốn xóa tài khoản này không?</value>
+  </data>
+  <data name="FailedAction" xml:space="preserve">
+    <value>Không thể thực hiện thao tác này. Vui lòng kiểm tra lại kết nối đường truyền của bạn và thử lại sau.</value>
+  </data>
+  <data name="SyncingAcc" xml:space="preserve">
+    <value>Tài khoản đồng bộ</value>
+  </data>
+  <data name="SyncingData" xml:space="preserve">
+    <value>Đang thực hiện đồng bộ dữ liệu của bạn...</value>
+  </data>
+  <data name="SyncNow" xml:space="preserve">
+    <value>Đồng bộ ngay</value>
+  </data>
+  <data name="TurnOnSyncingMsg" xml:space="preserve">
+    <value>Bật tự động đồng bộ dữ liệu?</value>
+  </data>
+  <data name="UsernameTxt" xml:space="preserve">
+    <value>Tài khoản:</value>
+  </data>
+  <data name="NewReleaseMsg" xml:space="preserve">
+    <value>* Ver 1.1.0.0
+- Thêm tùy chọn đồng bộ dữ liệu online (Thử nghiệm).
+- Sửa vài lỗi nhỏ.
+- Cải thiện giao diện.
+- Chỉnh sửa điều khoản riêng tư đối với đồng bộ dữ liệu online.
+* Ver 1.0.0.2
+- Hoạt động bình thường ngay cả khi khóa màn hình.
+- Hỗ trợ cả tiếng Việt và tiếng Anh.
+- Cập nhật thông tin lên Live Tile.
+- Hỗ trợ hiển thị các đối tượng 3D trên bản đồ.
+- Hỗ trợ xoay hướng bản đồ không cần cảm biến la bàn.
+- Hoàn toàn miễn phí.
+- Giao diện đơn giản, dễ sử dụng, dung lượng nhẹ.</value>
+  </data>
+  <data name="PasswordsNotMatch" xml:space="preserve">
+    <value>Mật khẩu của bạn chưa trùng nhau!</value>
+  </data>
+  <data name="ReTypePassword" xml:space="preserve">
+    <value>Nhập lại (nếu đăng kí tài khoản mới)</value>
+  </data>
+</root>

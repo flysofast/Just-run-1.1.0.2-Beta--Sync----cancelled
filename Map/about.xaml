@@ -1,0 +1,66 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Map.about"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="{Binding LocalizedResources.AppName, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="{Binding LocalizedResources.About, Source={StaticResource LocalizedStrings}}" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Margin="14,133,10,28" Grid.RowSpan="2">
+            <TextBlock Text="{Binding LocalizedResources.AppName, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0,10,525" FontSize="48"/>
+            <TextBlock HorizontalAlignment="Left" Height="26" Margin="12,56,0,0" TextWrapping="Wrap" Text="Version: 1.0.0.2" VerticalAlignment="Top" Width="176" FontSize="14"/>
+            <TextBlock HorizontalAlignment="Left" Margin="12,73,0,0" TextWrapping="Wrap" Text="Publisher: FlySoFast" VerticalAlignment="Top" Height="22" Width="409" FontSize="14"/>
+            <HyperlinkButton   Content="{Binding LocalizedResources.PrivacyPolicy, Source={StaticResource LocalizedStrings}}" HorizontalAlignment="Left" Margin="0,89,163,0" VerticalAlignment="Top"  FontSize="14" Tap="HyperlinkButton_Tap" Width="293" Height="25" HorizontalContentAlignment="Left"/>
+            <ScrollViewer Margin="0,120,0,0" >
+                <Grid Height="526">
+                    <TextBlock HorizontalAlignment="Left" Margin="12,-2,0,0" TextWrapping="Wrap" Text="CREDIT" VerticalAlignment="Top" Width="185" FontWeight="Bold" FontSize="22.667"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,28,0,0" TextWrapping="Wrap" Text="Lê Hải Nam" VerticalAlignment="Top" Height="26" Width="127" FontSize="20" FontWeight="Bold" Foreground="#FFFBFB90"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="12,89,0,0" TextWrapping="Wrap" Text="Nguyễn Sỹ Thắng" VerticalAlignment="Top" Height="26" Width="187" FontSize="20" FontWeight="Bold" Foreground="#FFFBFB90"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,59,0,0" TextWrapping="Wrap" Text="THANKS TO" VerticalAlignment="Top" Width="185" FontWeight="Bold" FontSize="22.667"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="12,120,0,0" TextWrapping="Wrap" Text="Nguyễn Hữu Thiều Trang" VerticalAlignment="Top" Height="26" Width="275" FontSize="20" FontWeight="Bold" Foreground="#FFFBFB90"/>
+
+                    <TextBlock HorizontalAlignment="Left" Margin="12,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="309" FontWeight="Bold" FontSize="22.667" Text="CONTACT / SUPPORT
+"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="67,209,0,0" TextWrapping="Wrap" Text="Facebook: " VerticalAlignment="Top" Height="26" Width="187" FontSize="20"/>
+                    <Image HorizontalAlignment="Left" Height="42" Margin="12,204,0,0" VerticalAlignment="Top" Width="42" Source="/Assets/facebook-icon.png"/>
+                    <HyperlinkButton TargetName="_blank"  Content="Bay Vèo Vèo" HorizontalAlignment="Left" Margin="154,209,0,0" VerticalAlignment="Top" NavigateUri="http://localhost:41069/Default.aspx" FontSize="21"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="67,270,0,0" TextWrapping="Wrap" Text="Email:" VerticalAlignment="Top" Height="26" Width="187" FontSize="20"/>
+                    <Image HorizontalAlignment="Left" Height="50" Margin="8,256,0,0" VerticalAlignment="Top" Width="50" Source="/Assets/email.png" RenderTransformOrigin="0.44,0.36"/>
+                    <HyperlinkButton Content="lehainam.it@outlook.com" HorizontalAlignment="Left" Margin="113,268,0,0" VerticalAlignment="Top" FontSize="21" Click="HyperlinkButton_Click"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="12,319,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="202" Width="434">
+            	<Run Text="Cám ơn bạn đã ủng hộ ứng dụng này. Chúng tôi rất mong nhận được những ý kiến đóng góp của các bạn, xin gửi về địa chỉ email ở trên :)"/>
+            	<LineBreak/>
+            	<Run Text="********"/>
+            	<LineBreak/>
+            	<Run Text="We are very thankful for your support. For any issues and concerns, contact us directly using addresses above :)"/>
+                    </TextBlock>
+
+                </Grid>
+            </ScrollViewer>
+
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
